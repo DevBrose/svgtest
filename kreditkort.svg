@@ -1,0 +1,19 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="700" height="700">
+    <rect x="150" y="50" rx="40" ry="40" width="500" height="350" style="fill:orange"/>
+    <rect x="150" y="100"  width="500" height="60" style="fill:grey"/>
+
+   <line x1="175" y1="200" x2="300" y2="200" stroke="white" stroke-width="20" style="stroke-opacity: .6; stroke-linecap:round;" />
+   <line x1="375" y1="200" x2="500" y2="200" stroke="white" stroke-width="20" style="stroke-opacity: .6; stroke-linecap:round;" />
+      
+<line x1="175" y1="250" x2="190" y2="250" stroke="white" stroke-width="20" style="stroke-opacity: .6; stroke-linecap:round;" />
+ <line x1="220" y1="250" x2="260" y2="250" stroke="white" stroke-width="20" style="stroke-opacity: .6; stroke-linecap:round;" />
+ <line x1="300" y1="250" x2="320" y2="250" stroke="white" stroke-width="20" style="stroke-opacity: .6; stroke-linecap:round;" />
+ <line x1="350" y1="250" x2="380" y2="250" stroke="white" stroke-width="20" style="stroke-opacity: .6; stroke-linecap:round;" />
+ <line x1="410" y1="250" x2="500" y2="250" stroke="white" stroke-width="20" style="stroke-opacity: .6; stroke-linecap:round;" />
+   
+   
+ <circle cx="500" cy="300" r="40"  stroke-width="3" fill="red" />
+ <circle cx="550" cy="300" r="40"  stroke-width="3" fill="blue" />
+</svg>
+
+    
